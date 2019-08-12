@@ -44,6 +44,5 @@ cd ..
 #Helpful powershell payloads
 mkdir powershellPayloads
 cd powershellPayloads
-git clone 
 git clone https://github.com/samratashok/nishang
-
+cd ..
